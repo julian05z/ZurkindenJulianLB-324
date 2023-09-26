@@ -11,6 +11,8 @@ load_dotenv()
 PASSWORD = os.getenv("PASSWORD")
 entries = []
 
+# Test Pull
+
 
 @dataclass
 class Entry:
