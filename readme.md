@@ -1,5 +1,7 @@
 # LB 324
 
+https://zurkindenjulianlb-324.azurewebsites.net/
+
 ## Aufgabe 2
 Erklären Sie hier, wie man `pre-commit` installiert.
 
