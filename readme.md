@@ -2,6 +2,8 @@
 
 https://zurkindenjulianlb-324.azurewebsites.net/
 
+Passwort:  passwort
+
 ## Aufgabe 2
 Erklären Sie hier, wie man `pre-commit` installiert.
 
